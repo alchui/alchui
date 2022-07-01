@@ -1,6 +1,6 @@
 ### Hi there, I'm Alvin
 
-## A real-life programmer with a Qipmunk's Clone
+## A real-life programmer with a clone
 
 - Basic Skills: Automation, Web Development (ex. Frontend and Backend, APIs), Software Development (ex. Plugins and Features)
 - Learning: Blogging, Blockchain Technology, Machine Learning

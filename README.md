@@ -1,6 +1,6 @@
-### Hi there, I'm Alvin
+### Hi there, I'm Alvin Chui
 
-## A real-life programmer with a clone
+## A real-life programmer with a qipmunk clone
 
 - Basic Skills: Automation, Web Development (ex. Frontend and Backend, APIs), Software Development (ex. Plugins and Features)
 - Learning: Blogging, Blockchain Technology, Machine Learning

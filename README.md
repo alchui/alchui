@@ -1,6 +1,6 @@
 ### Hi there, I'm Alvin Chui
 
-[![MasterHead](https://user-images.githubusercontent.com/26880060/190964275-e7738daf-a19f-4713-8995-3f357664324a.png)](website)
+[![MasterHead](https://user-images.githubusercontent.com/26880060/190964275-e7738daf-a19f-4713-8995-3f357664324a.png)][website]
 
 ## A real-life programmer with a qipmunk clone
 

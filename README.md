@@ -41,7 +41,7 @@
 
 
 
-[website]: https://wwww.alchui.one
+[website]: https://www.alchui.one
 [vscode]: https://code.visualstudio.com/
 [facebook]: https://www.facebook.com/alvin.chui.098
 [twitter]: https://twitter.com/alchui

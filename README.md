@@ -2,7 +2,7 @@
 
 [![MasterHead](https://user-images.githubusercontent.com/26880060/190964275-e7738daf-a19f-4713-8995-3f357664324a.png)][website]
 
-## A real-life programmer with a qipmunk clone
+## A real-life programmer
 
 - Basic Skills: Automation, Web Development (ex. Frontend and Backend, APIs), Software Development (ex. Plugins and Features)
 - Learning: Blogging, Blockchain Technology, Machine Learning

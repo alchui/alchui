@@ -9,7 +9,7 @@
 - Real Major: Computer Programming Engineering
 - Goals: Contribute to make the World a better place (regardless of how minor the effect could be（￣▽￣) )
    - Contribution to Open Source 
-- ⚡ Fun fact: I am a vegetarian! (vegetarian && !egg 🤪)
+- ⚡ Fun fact: I am a vegetarian! (vegetarian && !egg)
 
 ### Connect with me:
 
